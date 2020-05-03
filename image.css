@@ -1,0 +1,15 @@
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-30-percentage {
+    width: 30%;
+    height: 30%;
+}
+
+.img-20-percentage {
+    width: 20%;
+    height: 20%;
+}
